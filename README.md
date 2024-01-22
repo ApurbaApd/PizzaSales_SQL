@@ -1,4 +1,4 @@
-## PIZZA SALES SQL QUERIES: Dive into your Delicious Data!
+## PIZZA SALES SQL QUERIES:
 ### This repository brings you a comprehensive set of SQL queries to unlock valuable insights from your pizza sales data.
 
 A. Key Performance Indicators (KPIs):
